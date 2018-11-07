@@ -1,6 +1,6 @@
 {
   "name": "@cavas/ta",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "ta",
   "main": "lib/index.js",
   "bin": {
