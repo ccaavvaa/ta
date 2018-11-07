@@ -1,6 +1,6 @@
 {
   "name": "@cavas/ta",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "ta",
   "main": "lib/index.js",
   "bin": {
@@ -18,8 +18,8 @@
   },
   "types": "lib/index.d.ts",
   "dependencies": {
-    "@cavas/tb": "git+https://github.com/ccaavvaa/tb.git",
-    "@cavas/tc": "git+https://github.com/ccaavvaa/tc.git"
+    "@cavas/tb": "~0.0.1",
+    "@cavas/tc": "~0.0.1"
   },
   "devDependencies": {
     "@types/chai": "^4.1.3",
