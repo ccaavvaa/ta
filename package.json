@@ -12,7 +12,6 @@
   },
   "author": "Catalin VASCU",
   "license": "MIT",
-  "private": true,
   "scripts": {
     "test": "mocha  test/**/*.specs.js"
   },
